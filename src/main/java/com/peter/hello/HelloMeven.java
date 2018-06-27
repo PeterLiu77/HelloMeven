@@ -4,6 +4,6 @@ public class HelloMeven {
     final String hhh="HHH";
 
     public void sayHello() {
-        System.out.println("hello!");
+        System.out.println("hello,meven!");
     }
 }
