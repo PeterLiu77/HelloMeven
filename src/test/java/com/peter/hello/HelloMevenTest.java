@@ -8,7 +8,7 @@ public class HelloMevenTest {
     @Test
     public void sayHello() {
         HelloMeven hello = new HelloMeven();
-        Assert.assertEquals("HHH",hello.hhh);
+        Assert.assertEquals("HHH", hello.hhh);
         hello.sayHello();
     }
 }
